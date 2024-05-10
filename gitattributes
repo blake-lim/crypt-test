@@ -1,0 +1,1 @@
+secrets/*.dart filter=git-crypt diff=git-crypt
